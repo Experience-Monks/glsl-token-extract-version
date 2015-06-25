@@ -1,0 +1,41 @@
+{
+  "name": "glsl-token-extract-version",
+  "version": "1.0.0",
+  "description": "finds a #version field in a set of GLSL tokens",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "glsl",
+    "get",
+    "version",
+    "find",
+    "300",
+    "100",
+    "es",
+    "stackgl",
+    "glslify",
+    "token",
+    "tokenizer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/glsl-token-extract-version.git"
+  },
+  "homepage": "https://github.com/Jam3/glsl-token-extract-version",
+  "bugs": {
+    "url": "https://github.com/Jam3/glsl-token-extract-version/issues"
+  }
+}
