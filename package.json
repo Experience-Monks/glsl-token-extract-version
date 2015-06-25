@@ -9,9 +9,12 @@
     "email": "dave.des@gmail.com",
     "url": "https://github.com/mattdesl"
   },
-  "dependencies": {},
+  "dependencies": {
+    "glsl-version-regex": "^1.0.0"
+  },
   "devDependencies": {
     "faucet": "0.0.1",
+    "glsl-tokenizer": "^2.0.2",
     "tape": "^4.0.0"
   },
   "scripts": {
