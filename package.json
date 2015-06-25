@@ -1,6 +1,6 @@
 {
   "name": "glsl-token-extract-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "finds a #version field in a set of GLSL tokens",
   "main": "index.js",
   "license": "MIT",
